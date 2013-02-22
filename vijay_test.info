@@ -1,0 +1,4 @@
+; $Id$
+name = User Skill
+description = Custom functions for this site.
+core = 6.x
